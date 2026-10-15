@@ -71,7 +71,7 @@ The sample patient is fictional and intended for demonstration only.
 
 ## Submission
 
-- GitHub Repository: 
-- Live Demo: 
+- GitHub Repository: https://github.com/Syedfarman786/geriatric-assessment-form.git
+- Live Demo: https://geriatric-asment-form.netlify.app/
 - Time Spent: 1:23 hrs
 - Outstanding Items: None
